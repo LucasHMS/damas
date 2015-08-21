@@ -3,6 +3,7 @@
  *
  *  Created on: 17/06/2015
  *      Author: Lucas
+ *      ALTERADO: 21/08/2015
  */
 #include<iostream>
 #include <stdlib.h>
